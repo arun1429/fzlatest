@@ -1,0 +1,12 @@
+export const dialogflow = {
+  type: 'service_account',
+  project_id: 'frezitchat-pyfo',
+  private_key_id: '131cbdeab30ce07a282adc6f4441a6d9c2b3abb3',
+  private_key: '-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwiVBYNXGEZIkp\n6HL7QEnmlOz/6q1tCDrARpn3BPhPQbzMTl5HWCwTVr1N0/FVW6mf8rrWj4h4NhJs\n02txQs1cPHhxOcwIubv7cs/WBbmG8cDwEXWoG0JfT3Tmj0OZp9GWo/5O0guBpBEP\nRbSnPs4xdafdWfkdlTQfn2l4uxy5KgbWBVT0IwBwoG+Afr7g+fAOphoSFAM7wxHc\n89lyjOyQyQUeQVxoLLDuyXgjNJffwNVsezpvQv8Nlaagr8XPmlkPxpbJiN7hWnAe\nA/XAfeDrSAg/CaouH+Tl4p2i+P5CLCId4eZF60zVzjzBZHJUExiZQwQ3lizFDFqc\nqtd6QMjfAgMBAAECggEAEU1RTbvl2s3HBbpNs/ilOuSuD8JZP1OW/SujlmrAcsrP\nbWS258jT/7c4yYJ0EjjFeLLfrfzA/tXUhiGjKPrHns/MbCh31K5uJqL7jLngk5cT\ny6j3vkNMWi6y7I/uVlvKIQ4EntwGRa1Qq2MFECk0ffN5QYAPzYmcjgbf3aB/xwPr\ndMIicGR94sGeE4g6Q98FRBJwZb1pFsfCTeCjEBwn7zV/cC0m68xif1M+3TFChnpB\nAXHCZncxYjdN1HgUuogcbnje7RJBzMb+GIu4o7iNalT9bUcsnmYW3PQehIwO7l7s\nfbIiNlp7KK8djElVVjZYfol5F7s2WquOZiEVqecLsQKBgQDoJOtn3cii7ZhX0zXY\n77CjgUzKkG1+urAAbWEllIvWlvFecGTfQV7YZU115da8JJfNeaP1kr6+bPF5Unqs\nvKuFAl41nNSsmcYCnuAw6ZohwW+zRu916nc9kRtiQO0RO3QlEnfwkZ6X6IxxswGK\n47qrxCex/Hs6NRr+Ok+TxivWLwKBgQDCrYEGaGzjGS5p7uNyZ0mqYdMrshHNgXIl\nsL1RQRjHPw+rSfB6sh7ydiNXliq6YCv7JaITDX0ruFx863LOgYus5b7xkwGZ8xtx\nrhILr25z2O2rxVlERSUlVwmWFNRoYDvbTUwO8KxhQ1WeakB71UyiBJib8v58s0WX\n3IqidgE8UQKBgFWq8jh1TwpZNeQLLI7u/TeJisYiAFZJHJQ7ySLuK6C4OUCJp5//\n5rliwPAmLlVmB6MrJYeFbOCnIYGNH3pJcd523j9Yrd84LCthaAiE3H1ifg8huVLB\ngNl2iC19Gj9GunjH1P0xL96NUe7PiV0w5v1mOOPk8bCsUlbJO/6jnh+/AoGACYU8\nqxiOQqjnmSyimOSuOJPiJN/nePpcn7U9/OxHDu9pj8Hk7csqMkdOwSjJ3CV54SVd\nALuHJI02kLFfAvRY5VKy/NNon6PA8tVFcqbYqvev39ed3vXWtDXGdT19icEzDC2C\ni7R/aZ5GYKHnl2a+Aaph4DaI9YY64AtcCEfnFZECgYEAq7oUmreoeK6q+lzy3h9n\nsIpBfyBiQJpjAtCzeodih41ApKsUPWUe45tk3MtZ7J8pN/y3Hf/5h8uTqEVQMiEq\naeTiCXSphvr8DQk0w49EOIESg3XtIHOCjO40Z2UuUR3pZBiXmI8vGxnAx2zj/lxe\nCpKx2hIH1uVA1RsJ89OnzMA=\n-----END PRIVATE KEY-----\n',
+  client_email: 'freizitchat@frezitchat-pyfo.iam.gserviceaccount.com',
+  client_id: '109408227184061593505',
+  auth_uri: 'https://accounts.google.com/o/oauth2/auth',
+  token_uri: 'https://oauth2.googleapis.com/token',
+  auth_provider_x509_cert_url: 'https://www.googleapis.com/oauth2/v1/certs',
+  client_x509_cert_url: 'https://www.googleapis.com/robot/v1/metadata/x509/freizitchat%40frezitchat-pyfo.iam.gserviceaccount.com',
+};

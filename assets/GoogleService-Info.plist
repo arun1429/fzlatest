@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>483954169009-5qnhg4f6vgvs9flff4il2sgtv8g54oa2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.483954169009-5qnhg4f6vgvs9flff4il2sgtv8g54oa2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>483954169009-0lnnfpbbr92pd7rkrjescfhr9pgui929.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDk_ENKdq_ct7VTbHQrmyBSj5OXJ97eLY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>483954169009</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.FreizeitMedia.Freizeit</string>
+	<key>PROJECT_ID</key>
+	<string>freizeitmedia-4629b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>freizeitmedia-4629b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:483954169009:ios:ea26723e0c0ae3f27c7e90</string>
+</dict>
+</plist>

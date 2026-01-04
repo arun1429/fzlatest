@@ -1,0 +1,132 @@
+{
+  "project_info": {
+    "project_number": "483954169009",
+    "project_id": "freizeitmedia-4629b",
+    "storage_bucket": "freizeitmedia-4629b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954169009:android:e375fdf488c6b93a7c7e90",
+        "android_client_info": {
+          "package_name": "com.freizeitMedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483954169009-hbbo3sojal9s2s1l936hajhcv3nd799o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freizeitMedia",
+            "certificate_hash": "197340109f9e2731fd26a6d5a1dd2614764b41ff"
+          }
+        },
+        {
+          "client_id": "483954169009-lavih22l9vdcts6ncuvlj2jq8kjlevbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freizeitMedia",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "483954169009-m5jpmd4anr2urs5604cuc4g04c20csoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freizeitMedia",
+            "certificate_hash": "4ed7173c5514e50438501283adde2a026497689b"
+          }
+        },
+        {
+          "client_id": "483954169009-npbpv7n7apo3hmh5l3nrhesijrrpckja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freizeitMedia",
+            "certificate_hash": "04a9acc93c4f47d2fc91ba7363d27e4c3d1ee738"
+          }
+        },
+        {
+          "client_id": "483954169009-drvulhadgt228s05snjho8a326pc9bep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABt6DIlv6lj5jSvYya17uWlSreA8M7YeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483954169009-drvulhadgt228s05snjho8a326pc9bep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483954169009-5qnhg4f6vgvs9flff4il2sgtv8g54oa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreizeitMedia.Freizeit",
+                "app_store_id": "1529561669"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483954169009:android:a00a294ac44e02b67c7e90",
+        "android_client_info": {
+          "package_name": "com.freizeitmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483954169009-0lnnfpbbr92pd7rkrjescfhr9pgui929.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freizeitmedia",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "483954169009-3ab7p1fl75ftj28hmtmlm92krea8lovk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freizeitmedia",
+            "certificate_hash": "04a9acc93c4f47d2fc91ba7363d27e4c3d1ee738"
+          }
+        },
+        {
+          "client_id": "483954169009-drvulhadgt228s05snjho8a326pc9bep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABt6DIlv6lj5jSvYya17uWlSreA8M7YeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483954169009-drvulhadgt228s05snjho8a326pc9bep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483954169009-5qnhg4f6vgvs9flff4il2sgtv8g54oa2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreizeitMedia.Freizeit",
+                "app_store_id": "1529561669"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
